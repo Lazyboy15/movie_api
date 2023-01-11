@@ -11,6 +11,6 @@ This repository contains a Django Rest API for movies. It provides an easy way t
 
 The API is designed to be easy to use and can be integrated into any web or mobile application. It is also well documented so that developers can quickly get up and running with the API.
 
-"""
+`
 git clone https://github.com/Lazyboy15/movie_api/
-"""
+`
