@@ -15,7 +15,9 @@ git clone https://github.com/Lazyboy15/movie_api/
 `
 <br>
 <h2> venv activate on Linux/Unix</h2><br>
-`source venv/bin/activate`
+`
+source venv/bin/activate
+`
 <br>
 <h2>run project</h2><br>
 `
