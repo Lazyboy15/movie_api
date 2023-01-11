@@ -14,6 +14,7 @@ The API is designed to be easy to use and can be integrated into any web or mobi
 `
 git clone https://github.com/Lazyboy15/movie_api/
 `
+<br>
 venv activate on Linux/Unix
 `source venv/bin/activate`
 run project
