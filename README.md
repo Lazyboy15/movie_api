@@ -9,15 +9,15 @@ This repository contains a Django Rest API for movies. It provides an easy way t
 - View user ratings for each movie 
 - View top rated movies 
 
-The API is designed to be easy to use and can be integrated into any web or mobile application. It is also well documented so that developers can quickly get up and running with the API.
-
+The API is designed to be easy to use and can be integrated into any web or mobile application. It is also well documented so that developers can quickly get up and running with the API.<hr>
 `
 git clone https://github.com/Lazyboy15/movie_api/
 `
 <br>
-venv activate on Linux/Unix
+<h2> venv activate on Linux/Unix</h2><br>
 `source venv/bin/activate`
-run project
+<br>
+<h2>run project</h2><br>
 `
 python3 manage.py runserver
 
